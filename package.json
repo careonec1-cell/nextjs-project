@@ -14,7 +14,7 @@
     "jsvectormap": "^1.6.0",
     "next": "^14.2.4",
     "react": "^18",
-    "react-apexcharts": "^1.4.1",
+    "react-apexcharts": "1.4.1",
     "react-dom": "^18"
   },
   "devDependencies": {
@@ -29,5 +29,8 @@
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
+  },
+   "overrides": {
+    "react-apexcharts": "1.4.1"
   }
 }
